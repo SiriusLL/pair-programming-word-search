@@ -34,4 +34,6 @@ const transpose = function(matrix) {
   };
     
   module.exports = wordSearch;
+
+//paired programming with Ban Qaddoori & Sam Tichota
   
